@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/penchal_anki"><img src="https://api.daily.dev/devcards/2a56f9306bda4e42be9639a3bb0208bb.png?r=x8h" width="400" alt="PENCHAL NARASIMHULU ANKI's Dev Card"/></a>
+
 
 **penchal-anki/penchal-anki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
